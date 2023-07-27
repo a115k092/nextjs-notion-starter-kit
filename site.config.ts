@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Karentzy 的博客',
-  domain: 'https://www.notion.so/zzhynn/zzhynn-23fe0934869d4f78badff5481638a032?pvs=4',
+  domain: 'https://www.notion.so/zzhynn/zzhynn-23fe0934869d4f78badff5481638a032',
   author: 'Karentzy',
 
   // open graph metadata (optional)
